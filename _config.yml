@@ -12,3 +12,5 @@ kramdown:
 paginate: 4
 paginate_path: '/blog/page:num/'
 permalink: /blog/:title
+
+theme: jekyll-theme-architect
